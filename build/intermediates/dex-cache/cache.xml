@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_e863f0d289cf111c4aff938aca6ba733ca1c32bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_38ea3133062f3648bb1cd480a7eb5fffaf454be1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_2f14de2a83c531047761d5f2344f003ef6f080bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_041e670e3319acc98e3e721536a888d85b66ca8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\libs\AMap3DMap_5.0.0_AMapNavi_5.0.1_AMapSearch_5.0.0_AMapLocation_3.3.0_20170410.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="255b84577f222699367fdeeb3080787423b4bd64">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap3DMap_5.0.0_AMapNavi_5.0.1_AMapSearch_5.0.0_AMapLocation_3.3.0_20170410_93a18071d209ed012c5f9f5e03a58041120a670f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8c90c9653279da7e26a499ceb643047398cd9b28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_6f2cc6f5344092a92cabab2b184cb8925e7250f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a749130b10252dc5becdb45da39456eb5f8a4ac">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3e37c814ce6f66f7754fb917c9878f5c71f017a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6043889a7fae0d495028b5fe3d10592a16086f8e">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a0ca03d34060e6c7457f782853b11d825c5c4490\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_dc6621e8d918ee61c72f6d1e6849b736b376c96e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_e21727d04fb80a9e73c9f53f3e3aca8fa893a161\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e90888eeb6f6fe43c98cbad4dab87cbbc8da291e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b8b8647d8a9383e2107b00d9091fa60646d04a59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_e289bac53558fd268abdaa5c9cf032bde7b20a4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\androidsdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_145e62d4d895da20b5b1d4220585d4a4544f66c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_19569d58de5484cc25c7a65705a26ac1d0e92411\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\libs\zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fe22c135f19470d05b0816d5996c442ef67da3f">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_c0f9e6cb767a9b1bcec5f81e003d8e7c9fdb5571\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_96b943d56966d1ff7708e7a9e8c10953e05d6f66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\IntelligentPark\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\AndroidCode\IntelligentPark\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_c1866a1679d289acf9e24a184d95e1f4ae2fa5c4\classes.dex" />
+    </item>
+
+</items>
