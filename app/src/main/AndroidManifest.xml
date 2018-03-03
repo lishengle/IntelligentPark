@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.intelligentpark">
+
+    //地图SDK（包含其搜索功能）需要的基础权限
+
+    <!--允许程序打开网络套接字-->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!--允许程序设置内置sd卡的写权限,危险权限-->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!--允许程序获取网络状态-->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!--允许程序访问WiFi网络信息-->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!--允许程序读写手机状态和身份,危险权限-->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!--允许程序访问CellID或WiFi热点来获取粗略的位置,危险权限-->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    //定位包、导航包需要的额外权限（注：基础权限也需要）
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <!--<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />-->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+
+    //扫码权限
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/flower"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="f4eb2e203d2b7c0c6a13a12b0af4cef5" >
+        </meta-data>
+
+        <activity android:name=".MainActivity"
+            android:launchMode="singleTask"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SearchActivity"
+            android:launchMode="singleTop">
+        </activity>
+        <activity android:name=".MeActivity"
+            android:launchMode="singleTop">
+        </activity>
+
+        <activity android:name=".zxing.activity.CaptureActivity"
+            android:launchMode="singleTop">
+        </activity>
+    </application>
+
+</manifest>

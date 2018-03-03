@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+        <Button
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/back"
+            android:background="@drawable/back"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_vertical"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="个人中心"
+            android:textColor="@color/black"
+            android:layout_centerInParent="true"
+            android:textSize="18dp"/>
+    </RelativeLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/myIcon"
+        android:drawableLeft="@drawable/my_icon"
+        android:background="#ffffff"
+        android:paddingLeft="25dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:text="  姓名"
+        android:gravity="center_vertical"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/order"
+        android:layout_marginTop="15dp"
+        android:background="#ffffff"
+        android:drawableLeft="@drawable/order"
+        android:paddingLeft="25dp"
+        android:text="  我的订单"
+        android:gravity="center_vertical"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/money"
+        android:layout_marginTop="5dp"
+        android:background="#ffffff"
+        android:drawableLeft="@drawable/money"
+        android:paddingLeft="25dp"
+        android:text="  我的钱包"
+        android:gravity="center_vertical"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/voucher"
+        android:layout_marginTop="5dp"
+        android:background="#ffffff"
+        android:drawableLeft="@drawable/voucher"
+        android:paddingLeft="25dp"
+        android:text="  兑优惠券"
+        android:gravity="center_vertical"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/invitation"
+        android:layout_marginTop="5dp"
+        android:background="#ffffff"
+        android:drawableLeft="@drawable/invitation"
+        android:paddingLeft="25dp"
+        android:text="  邀请好友"
+        android:gravity="center_vertical"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/feedback"
+        android:layout_marginTop="5dp"
+        android:background="#ffffff"
+        android:drawableLeft="@drawable/feedback"
+        android:paddingLeft="25dp"
+        android:text="  我的反馈"
+        android:gravity="center_vertical"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/setting"
+        android:layout_marginTop="5dp"
+        android:background="#ffffff"
+        android:drawableLeft="@drawable/setting"
+        android:paddingLeft="25dp"
+        android:text="  系统设置"
+        android:gravity="center_vertical"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/quit"
+        android:layout_marginTop="5dp"
+        android:background="#ffffff"
+        android:drawableLeft="@drawable/quit"
+        android:paddingLeft="25dp"
+        android:text="  退出登录"
+        android:gravity="center_vertical"
+        />
+</LinearLayout>

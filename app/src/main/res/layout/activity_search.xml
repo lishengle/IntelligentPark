@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:id="@+id/back"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/back"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_toRightOf="@id/back">
+        <SearchView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/searchView"
+            android:iconifiedByDefault="false"
+            android:queryHint="查找地点、停车场"
+            >
+        </SearchView>
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id="@+id/searchListView"
+            android:layout_weight="1"></ListView>w>
+    </LinearLayout>
+
+</RelativeLayout>

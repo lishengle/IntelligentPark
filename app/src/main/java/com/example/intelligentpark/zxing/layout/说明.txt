@@ -1,0 +1,1 @@
+该layout是CaptureActivity的布局文件，将其加到项目layout文件下即可。
