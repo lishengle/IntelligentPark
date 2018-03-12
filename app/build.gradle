@@ -28,4 +28,10 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile files('libs/AMap3DMap_5.0.0_AMapNavi_5.0.1_AMapSearch_5.0.0_AMapLocation_3.3.0_20170410.jar')
     compile files('libs/zxing.jar')
+    compile files('src/main/java/libs/commons-lang3-3.7.jar')
+    compile files('src/main/java/libs/catalina-6.0.26.jar')
+    compile files('src/main/java/libs/httpclient-4.5.2.jar')
+    compile files('src/main/java/libs/fastjson-1.2.4.jar')
+    compile files('src/main/java/libs/fluent-hc-4.5.2.jar')
+    compile files('src/main/java/libs/httpcore-4.4.6.jar')
 }

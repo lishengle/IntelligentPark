@@ -13,4 +13,6 @@
     <color name="possible_result_points">#00000000</color>
     <color name="cl_80c469">#80c469</color>
     <color name="textColor">#1296db</color>
+    <color name="textColorGray">#bdbdbd</color>
+    <color name="background">#e0e0e0</color>
 </resources>
