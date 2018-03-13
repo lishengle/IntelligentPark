@@ -5,6 +5,6 @@ package com.example.intelligentpark.constants;
  */
 
 public final class Constants {
-    public static final String HOST = "192.168.1.160";
+    public static final String HOST = "http://123.206.84.162:8080/phyexam";
     public static final int RED = 0xffff0000;
 }

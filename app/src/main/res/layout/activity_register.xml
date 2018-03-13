@@ -145,7 +145,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/password2Warn"
-            android:text="号码格式不正确"
+            android:text="两次输入密码不一致"
             android:layout_toRightOf="@id/again"
             android:textSize="18dp"
             android:textColor="@color/background"

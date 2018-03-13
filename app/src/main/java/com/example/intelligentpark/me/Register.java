@@ -16,8 +16,6 @@ import com.example.intelligentpark.constants.Constants;
 import com.example.intelligentpark.pojo.Account;
 
 import org.apache.commons.lang3.StringUtils;
-import org.apache.http.client.fluent.Request;
-import org.apache.http.entity.ContentType;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -96,7 +94,7 @@ public class Register extends Activity{
                     Account user = new Account(nameString, passwordString, phoneString);
                     try {
                         String userJson = JSON.toJSONString(user);
-                        String responseString = Request.Post(Constants.HOST + "/me/register").bodyString(userJson, ContentType.APPLICATION_JSON).execute().returnContent().asString();
+                        String responseString = "";//Request.Post(Constants.HOST + "/me/register").bodyString(userJson, ContentType.APPLICATION_JSON).execute().returnContent().asString();
                         JSONObject response = JSON.parseObject(responseString);
                         if (response.getIntValue("status") == 0) {
                             Intent intent = new Intent(Register.this, Login.class);
